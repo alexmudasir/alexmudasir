@@ -23,6 +23,7 @@ Codex · Claude Code · Muse AI · Prompt Engineering · Spec-Driven Development
 - [Food Cravings](https://foodcravingss.netlify.app/) — Restaurant online ordering website with full menu, pizza builder, cart and WhatsApp checkout (demo)
 - [Shurmble](https://sage-shortbread-9d8da4.netlify.app/) — Cookie store demo with flavour switcher, Build Your Own Box and cart
 - [AURELLE](https://astonishing-cuchufli-cd97d0.netlify.app/) — Premium fashion store design demo
+- [Fede by Iman](https://fedebyiman.netlify.app/) — Shopify-style bakery store demo for Karachi bakery Fede by Iman, with their real products and prices, cart and demo checkout (demo)
 - [Portfolio](https://mudasirpanhwer.netlify.app/) — My personal portfolio
 
 ## Contact
